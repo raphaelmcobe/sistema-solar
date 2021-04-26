@@ -1,3 +1,4 @@
 mercurio
+venus
 terra
 marte
